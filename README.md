@@ -8,8 +8,6 @@ Brilloconnetz Java Developer Test Solution
   - [Question Two](#question-two)
 - [Language Used](#language-used)
 - [Dependencies](#dependencies)
-- [Messaging Service](#messaging-service)
-- [Documentation](#documentation)
 - [How to Use](#how-to-use)
 
 ## Questions
