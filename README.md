@@ -9,6 +9,7 @@ Brilloconnetz Java Developer Test Solution
 - [Language Used](#language-used)
 - [Dependencies](#dependencies)
 - [How to Use](#how-to-use)
+- [Solution One Snippet](#solution-one)
 
 ## Questions
 
@@ -94,6 +95,8 @@ git clone https://github.com/gitpeters/BrilloconnetzTestSolutions.git
 - IntelliJ IDE or any of your favourite IDE that supports JVM
 - The listed dependencies
 
+## Solution One
+![solution1-snippet](https://github.com/gitpeters/BrilloconnetzTestSolutions/assets/111524304/bbf86f3b-f0fb-4968-a3ff-2d673ea770a0)
 
 
 
