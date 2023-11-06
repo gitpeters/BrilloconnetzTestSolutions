@@ -32,7 +32,7 @@ public class ValidateUserInput {
     public String toString() {
         return "ValidateUserInput{" +
                 "isValid=" + isValid +
-                ", errorMessage='" + message + '\'' +
+                ", message='" + message + '\'' +
                 ", jwt='" + jwt + '\'' +
                 '}';
     }
